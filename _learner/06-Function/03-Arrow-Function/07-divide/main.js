@@ -1,0 +1,1 @@
+const divisibleBySeven = (num) => (num % 7 === 0) ? "Yes":"No";
